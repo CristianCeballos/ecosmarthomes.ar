@@ -1,0 +1,45 @@
+/* 	.menu{
+		width:100%;
+		text-align: center;
+		background-color:#fff;
+		padding:20px;
+		margin:0px;
+		border-bottom: solid 1px gray;
+		position: fixed;
+		z-index: 0;
+	} */
+
+	.fit{
+		z-index:-1;
+	}
+/* 	li{
+		decoration: none;
+		display: inline;
+		padding: 20px;
+		
+		margin: 0 auto;
+		
+	} */
+
+	.header{
+		margin:0px;
+		padding:0px;
+	}
+/* 
+	a{
+		text-decoration:none;
+	}
+	 */
+
+	 .menu{
+		 list-style:none;
+	 }
+
+	 .menuUl{
+		 padding:0px;
+	 }
+	 .enlaceMenu{
+		 color: white;
+		 text-decoration:none;
+		 font-size: 16px;
+	 }
